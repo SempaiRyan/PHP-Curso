@@ -12,8 +12,13 @@
     //Este es un Comentario en linea con Doble //
     #Este un un comentarios con Gatito #
 
-
-
+    /* 
+    ESTE ES UN COMENTARIO DE BLOQUE
+    Cualquier cosa que se eescriba 
+    Es ignorado por el analizador sintactico
+    */
+    
+    print "<h1> Bienvenido a PHP </h1>";
 
     ?>
 
