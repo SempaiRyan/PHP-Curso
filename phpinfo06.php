@@ -1,7 +1,9 @@
 <?php  
 
 print phpinfo();
+phpinfo();
 
+print ("<strong> Hola Mundo </strong>");
 /*
 Se recuerda que 
 practica por lo que en el respositorio 
@@ -9,3 +11,4 @@ practica por lo que en el respositorio
 
 */
 ?>
+///// Podemos eliminar lo de arriba sin problema
