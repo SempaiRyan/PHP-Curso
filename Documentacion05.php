@@ -1,16 +1,22 @@
 <?php
-    echo "Comentario PHP DOC";
+/*
+@autor  
+@version
+@param
+@return
+*/ 
 
+    echo "Comentario PHP DOC";
+/*
 #clase
-class ClassName extends AnotherClass 
+class ClassName extends AnotherClass
 {
-    function __construct (argument)
+
+    function __construct(argument)
     {
-        //code....
+        //code...
     }
-    
 }
 
-//Esto es un mensaje recordar ver tutos Salud2
-
+//Esto es un mensaje Ver tutos Salud2
 ?>
