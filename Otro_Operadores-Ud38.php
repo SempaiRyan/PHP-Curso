@@ -16,4 +16,5 @@ $a++ Post-Incre Retorna $a,y luego incrementa $a en uno
 --$a Pre-decre,Decrementa $a en uno,luego retorna $a.
 $a-- Post decremento,Retorna $a ,luego decrementa $a en uno
 **/
+echo "Hola ";
 ?>
